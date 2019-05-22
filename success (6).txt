@@ -1,0 +1,1 @@
+SUCCESS ! INPUT_TABLE = entitlement_public.contractlineitem_sfdc ! OUPUT_TABLE = gdpr_entitlement_public.contractlineitem_sfdc ! Input Count = 31606608 ! Output Count = 31606608
